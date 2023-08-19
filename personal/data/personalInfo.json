@@ -1,0 +1,22 @@
+{ 
+    "fullName": {
+        "title": "الاسم",
+        "icon": "fas fa-user-alt",
+        "content": "محمد سلطان"
+    },
+    "maritalStatus": {
+        "title": "الحالة الإجتماعية",
+        "icon": "fas fa-heart",
+        "content": "مراهق"
+    },
+    "myBirthday": {
+        "title": "تاريخ الميلاد",
+        "icon": "fas fa-birthday-cake",
+        "content": "9-8-2007" 
+    },
+    "nationality": {
+        "title": "الجنسية",
+        "icon": "fas fa-flag",
+        "content": "عماني"
+    }
+}

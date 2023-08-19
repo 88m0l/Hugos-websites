@@ -1,0 +1,9 @@
+baseURL = ""
+relativeURLs = "True"
+languageCode = "ar"
+title = "المدونة"
+paginate = 9
+
+[permalinks]
+  posts = "/topics/:title/"
+ 
